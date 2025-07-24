@@ -1,4 +1,4 @@
-# Seg-Water: A High-Accuracy Water Body Segmentation Model Fusing Transformer and CNN
+# Seg-Water: A Hybrid Transformer-CNN with Deformable At-tention for Precise Water Body Delineation
 
 [![Python 3.8+](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![PyTorch 1.8+](https://img.shields.io/badge/PyTorch-1.8+-ee4c2c.svg)](https://pytorch.org/)
