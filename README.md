@@ -1,4 +1,4 @@
-# Seg-Water: A Hybrid Transformer-CNN with Deformable Attention for Precise Water Body Delineation
+# Seg-Water: A Hybrid Transformer-CNN with Deformable Attention for Precise Water Body segmentation
 
 [![Python 3.8+](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![PyTorch 1.8+](https://img.shields.io/badge/PyTorch-1.8+-ee4c2c.svg)](https://pytorch.org/)
