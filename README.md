@@ -96,5 +96,5 @@ Extensive ablation studies prove that each of our proposed innovative modules (D
 
 ### 2. Clone Repository
 ```bash
-git clone https://github.com/zhuangzmr/SegWater.git
+git clone https://github.com/zhuangzmr/Seg-Water.git
 cd SegWater
