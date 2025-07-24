@@ -11,7 +11,7 @@ We propose a novel hybrid Transformer-CNN framework named **Seg-Water**, designe
 ---
 
 ### **Figure 1: Visualization of Segmentation Results**
-![alt text](<img/Figure 1.png>)
+![Uploading image.png…]()
 ((a) original remote sensing input, (b) reference ground truth mask, (c) Seg-Water model’s output, (d) HRNet’s output, (e) SegFormer’s output, (f) PSPNet’s output, (g) DANet’s output, (h) DeepLabV3’s output)
 ---
 
