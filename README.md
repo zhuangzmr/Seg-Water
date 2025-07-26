@@ -61,6 +61,7 @@ Seg-Water consistently surpasses current mainstream segmentation models on two p
 | Model | MIoU | Precision | Recall | F1-score | aAcc |
 | :--- | :---: | :---: | :---: | :---: | :---: |
 | DeepLabV3  | 81.55% | 89.91% | 89.78% | 89.84% | 91.30% |
+| DANet  | 82.10% | 90.23% | 90.08% | 90.15% | 91.75% |
 | PSPNet  | 82.85% | 90.66% | 90.58% | 90.62% | 92.13% |
 | SegFormer | 84.21% | 91.50% | 91.36% | 91.43% | 92.88% |
 | HRNet  | 84.93% | 91.88% | 91.84% | 91.86% | 93.10% |
@@ -71,6 +72,7 @@ Seg-Water consistently surpasses current mainstream segmentation models on two p
 | Model | MIoU | Precision | Recall | F1-score | aAcc |
 | :--- | :---: | :---: | :---: | :---: | :---: |
 | DeepLabV3  | 83.24% | 92.52% | 88.61% | 90.42% | 95.39% |
+| DANet  | 83.81% | 92.03% | 89.67% | 90.80% | 95.49% |
 | PSPNet  | 84.11% | 92.75% | 89.42% | 90.98% | 95.63% |
 | SegFormer | 85.24% | 92.61% | 90.87% | 91.71% | 95.90% |
 | HRNet  | 85.56% | 92.56% | 91.30% | 91.92% | 95.98% |
